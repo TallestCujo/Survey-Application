@@ -867,7 +867,7 @@ public class DBConnect {
                
         //This code shows survey results
         //survey_Results rslt= new survey_Results();
-       /* 
+       
         rslt.lblNumSurveys.setText(totalPeople().toText());
         rslt.lblPizzaPercent.setText(pizzaPerc.getText());
         rslt.lblPastaPercent.setText(pastaPerc.getText());
@@ -877,7 +877,7 @@ public class DBConnect {
         rslt.lblNumEat.setText(eatRating().getText());
         rslt.lblNumTv.setText(tvRating().getText());
         
-        rslt.setVisible(true);*/
+        rslt.setVisible(true);
         
         
     
